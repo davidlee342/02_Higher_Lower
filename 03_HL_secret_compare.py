@@ -14,4 +14,3 @@ while guess != SECRET:
         print("Too low, try a higher number")
     else:
         print("Well done!  you guessed the secert number")
-        
